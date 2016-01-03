@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  VersionControlChallenge
 //
 //  Created by Jong on 1/3/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
